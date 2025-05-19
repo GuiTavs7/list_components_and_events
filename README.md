@@ -1,8 +1,37 @@
-# React + Vite
+# React Components + Lists + Events
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 React Components + Lists + Events
 
-Currently, two official plugins are available:
+Este projeto demonstra o uso de **componentes React**, **listas** e **eventos**. Ideal para quem está aprendendo os fundamentos do React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Instalação
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repo.git
+   cd seu-repo
+   ```
+
+2. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+## ▶️ Executando o Projeto
+
+Inicie o servidor de desenvolvimento com:
+
+```bash
+npm run dev
+```
+
+O projeto estará disponível em: [http://localhost:5173](http://localhost:5173) (ou conforme indicado no terminal).
+
+## 🛠 Tecnologias Utilizadas
+
+* React
+* Vite
+* JavaScript (ou TypeScript, se for o caso)
+* CSS/Styled-components (mencionar se estiver usando)
