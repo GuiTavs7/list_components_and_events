@@ -10,7 +10,7 @@ Este projeto demonstra o uso de **componentes React**, **listas** e **eventos**.
 
    ```bash
    git clone https://github.com/GuiTavs7/list_components_and_events.git
-   cd seu-repo
+   cd list_components_and_events
    ```
 
 2. Instale as dependências:
