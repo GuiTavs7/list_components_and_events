@@ -9,7 +9,7 @@ Este projeto demonstra o uso de **componentes React**, **listas** e **eventos**.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/GuiTavs7/list_components_and_events.git
    cd seu-repo
    ```
 
