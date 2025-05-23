@@ -33,5 +33,5 @@ O projeto estará disponível em: [http://localhost:5173](http://localhost:5173)
 
 * React
 * Vite
-* JavaScript (ou TypeScript, se for o caso)
-* CSS/Styled-components (mencionar se estiver usando)
+* JavaScript 
+* CSS3
